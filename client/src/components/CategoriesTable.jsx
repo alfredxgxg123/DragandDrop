@@ -1,6 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-
 import EmptyRows from './emptyRows.jsx';
 
 const CategoriesTable = (props) => {
